@@ -42,6 +42,7 @@
 .navbar .active {
     padding-bottom: 2px;
     border-bottom: 2px solid #49557e;
+    transition: 0.2s;
 }
 .navbar li{
     cursor: pointer;
